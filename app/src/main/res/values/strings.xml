@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ecology</string>
+    <string name="taipei_city_Zoo">臺北市立動物園</string>
+    <string name="not_info">無休館資訊</string>
+    <string name="web_open">在網頁中開啟</string>
+    <string name="plant_info">植物資料</string>
+    <string name="also_known">別名</string>
+    <string name="f_brief">簡介</string>
+    <string name="f_feature">辨認方式</string>
+    <string name="f_function">功能性</string>
+    <string name="f_update">最後更新：</string>
+    <string name="empty">無資料</string>
+    <string name="system_error">系統錯誤，請稍後在試</string>
+    <string name="other_error">發生非預期錯誤</string>
+</resources>
